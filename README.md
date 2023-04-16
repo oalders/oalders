@@ -1,10 +1,10 @@
 
 
 
-### <div align="center">I'm Olaf Alders. You may know me from <a href="https://prettygoodping.com">PrettyGoodPing</a>, <a href="https://metacpan.org" target="_blank">MetaCPAN</a>, <a href="https://olafalders.com">my blog</a>, <a href="https://opensource.com/users/oalders">opensource.com</a> or even <a href="https://metacpan.org/author/OALDERS" target="_blank">various Perl modules</a></div>
+### <div align="center">I'm Olaf Alders. You may know me from <a href="https://www.prettygoodping.com">PrettyGoodPing</a>, <a href="https://metacpan.org" target="_blank">MetaCPAN</a>, <a href="https://olafalders.com">my blog</a>, <a href="https://opensource.com/users/oalders">opensource.com</a> or even <a href="https://metacpan.org/author/OALDERS" target="_blank">various Perl modules</a></div>
 
 
-- 🚀 My latest project is [PrettyGoodPing](https://prettygoodping.com/)
+- 🚀 My latest project is [PrettyGoodPing](https://www.prettygoodping.com/)
 
 - 🥇 I'm coder #1 on <a href="https://metacpan.org" target="_blank">MetaCPAN</a>
 
