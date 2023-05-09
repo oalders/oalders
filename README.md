@@ -21,15 +21,23 @@
 
 ## Connect with me
 <div align="center">
+
 <a href="https://github.com/oalders" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://fosstodon.org/@oalders" target="_blank">
+<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109825361087142045?color=%23563ACC&domain=https%3A%2F%2Ffosstodon.org&label=mastodon&logoColor=%236364FF&style=for-the-badge">
+</a>
+
 <a href="https://www.linkedin.com/in/olafalders" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://stackoverflow.com/users/406224/oalders/" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
+
 </div>
 
 
