@@ -1,26 +1,26 @@
-### <div align="center">I'm Olaf Alders. You may know me from <a href="https://www.prettygoodping.com">PrettyGoodPing</a>, <a href="https://metacpan.org" target="_blank">MetaCPAN</a>, <a href="https://olafalders.com">my blog</a>, <a href="https://opensource.com/users/oalders">opensource.com</a> or even <a href="https://metacpan.org/author/OALDERS" target="_blank">various Perl modules</a></div>
+# I'm Olaf Alders and I'm available for freelance work
 
-- 🚀 My latest project is [PrettyGoodPing](https://www.prettygoodping.com/)
+- 🚀 My latest web apps are [PrettyGoodPing.com](https://www.prettygoodping.com/) and [MyMindIsRacing.com](https://mymindisracing.com)
 
-- 🥇 I'm coder #1 on <a href="https://metacpan.org" target="_blank">MetaCPAN</a>
+- 💻 My latest CLI is [is](https://github.com/oalders/is), which is an inspector for your environment.
 
-- 📘 I’m enjoying learning TypeScript and Playwright
+- 🥇 I'm coder #1 on [MetaCPAN](https://metacpan.org)
 
-- ❓ Ask me about Git, Perl or GitHub Actions
+- 📘 I’m learning TypeScript, Playwright and Rust
 
-- 🍺 You can <a href="https://github.com/sponsors/oalders">sponsor my work</a> on GitHub
+- ❓ Ask me about Git, Perl, Docker or GitHub Actions
 
-- 🍻 You can hire me for projects involving Git, GitHub Actions, Perl or code quality
+- 🍺 You can [sponsor my open source work](https://github.com/sponsors/oalders)
+
+- 🍻 You can hire me for projects involving Git, GitHub Actions, Docker, Perl
+  or code quality. You can contact me via [olaf@wundersolutions.com](mailto:olaf@wundersolutions.com)
+  or hire me via [fiverr.](https://www.fiverr.com/olaf_alders)
 
 <br/>
 
 ## Connect with me
 
 <div align="center">
-
-<a href="https://github.com/oalders" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 
 <a href="https://fosstodon.org/@oalders" target="_blank">
 <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109825361087142045?color=%23563ACC&domain=https%3A%2F%2Ffosstodon.org&label=mastodon&logoColor=%236364FF&style=for-the-badge">
