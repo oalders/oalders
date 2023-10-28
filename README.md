@@ -4,7 +4,7 @@
 
 - 💻 My latest CLI is [is](https://github.com/oalders/is), which is an inspector for your environment.
 
-- 🥇 I'm coder #1 on [MetaCPAN](https://metacpan.org)
+- 🥇 I'm coder #1 on [MetaCPAN](https://metacpan.org) and [a busy author](https://metacpan.org/author/OALDERS)
 
 - 📘 I’m learning TypeScript, Playwright and Rust
 
