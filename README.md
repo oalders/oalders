@@ -1,8 +1,4 @@
-
-
-
 ### <div align="center">I'm Olaf Alders. You may know me from <a href="https://www.prettygoodping.com">PrettyGoodPing</a>, <a href="https://metacpan.org" target="_blank">MetaCPAN</a>, <a href="https://olafalders.com">my blog</a>, <a href="https://opensource.com/users/oalders">opensource.com</a> or even <a href="https://metacpan.org/author/OALDERS" target="_blank">various Perl modules</a></div>
-
 
 - 🚀 My latest project is [PrettyGoodPing](https://www.prettygoodping.com/)
 
@@ -18,8 +14,8 @@
 
 <br/>
 
-
 ## Connect with me
+
 <div align="center">
 
 <a href="https://github.com/oalders" target="_blank">
@@ -40,9 +36,8 @@
 
 </div>
 
-
 <br/>
 
-
 ## Github Stats
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=oalders&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
