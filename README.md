@@ -16,6 +16,9 @@
   or code quality. You can contact me via [olaf@wundersolutions.com](mailto:olaf@wundersolutions.com)
   or hire me via [fiverr.](https://www.fiverr.com/olaf_alders)
 
+- 📘 You can read [my blog](https://www.olafalders.com/) and
+  [subscribe to the feed](https://www.olafalders.com/index.xml).
+
 <br/>
 
 ## Connect with me
