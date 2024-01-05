@@ -1,8 +1,13 @@
-# I'm Olaf Alders and I'm available for freelance work
+# I'm Olaf Alders and [I'm available for freelance work](https://www.olafalders.com/resume/)
 
-- 🚀 My latest web apps are [PrettyGoodPing.com](https://www.prettygoodping.com/) and [MyMindIsRacing.com](https://mymindisracing.com)
+- 📘 Read [my blog](https://www.olafalders.com/) and
+  [subscribe to the feed](https://www.olafalders.com/index.xml).
 
-- 💻 My latest CLI is [is](https://github.com/oalders/is), which is an inspector for your environment.
+- 📬 [Subscribe to my low frequency newsletter](https://wundersolutions-com.eo.page/k22w4).
+
+- 🚀 Get free alerts about SSL certs, domain names and URL uptime via [PrettyGoodPing.com](https://www.prettygoodping.com/).
+
+- 💻 Make shell scripting less painful with [is: an inspector for your environment](https://github.com/oalders/is).
 
 - 🥇 I'm coder #1 on [MetaCPAN](https://metacpan.org) and [a busy author](https://metacpan.org/author/OALDERS)
 
@@ -15,9 +20,6 @@
 - 🍻 You can hire me for projects involving Git, GitHub Actions, Docker, Perl
   or code quality. You can contact me via [olaf@wundersolutions.com](mailto:olaf@wundersolutions.com)
   or hire me via [fiverr.](https://www.fiverr.com/olaf_alders)
-
-- 📘 You can read [my blog](https://www.olafalders.com/) and
-  [subscribe to the feed](https://www.olafalders.com/index.xml).
 
 <br/>
 
