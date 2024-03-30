@@ -1,7 +1,7 @@
-# I'm Olaf Alders and [I'm available for freelance work](https://www.olafalders.com/resume/)
+# I'm Olaf Alders and [I'm available for freelance work](https://www.wundersolutions.com)
 
 - 📘 Read [my blog](https://www.olafalders.com/) and
-  [subscribe to the feed](https://www.olafalders.com/index.xml).
+  [subscribe to the feed](https://www.olafalders.com/posts/index.xml).
 
 - 📬 [Subscribe to my low frequency newsletter](https://wundersolutions-com.eo.page/k22w4).
 
@@ -19,7 +19,6 @@
 
 - 🍻 You can hire me for projects involving Git, GitHub Actions, Docker, Perl
   or code quality. You can contact me via [olaf@wundersolutions.com](mailto:olaf@wundersolutions.com)
-  or hire me via [fiverr.](https://www.fiverr.com/olaf_alders)
 
 <br/>
 
